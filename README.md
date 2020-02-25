@@ -1,4 +1,4 @@
-# mojaaplikacija
+# Univerzijada
 
 ## Project setup
 ```
